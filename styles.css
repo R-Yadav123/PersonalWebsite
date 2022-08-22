@@ -1,0 +1,135 @@
+/*TODO: Add a background color or image to your website*/
+body {
+  background-color: #ffe6ee;
+}
+
+h1 {
+  color: purple;
+  font-family: "Merriweather", serif;
+  font-size: 24pt;
+  margin: 20px;
+  padding: 5px;
+  
+}
+
+h2 {
+  color: purple;
+  font-family: "Merriweather", serif;
+  font-size: 18pt;
+  margin: 20px;
+  padding: 5px;
+  
+}
+
+h3 {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-size: 12pt;
+  margin: 20px;
+  padding: 5px;
+}
+
+p {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-size: 12pt;
+  margin: 20px;
+  padding: 5px;
+  
+}
+
+h1 {
+  color: purple;
+  font-family: "Merriweather", serif;
+  font-size: 24pt;
+  margin: 20px;
+  padding: 5px;
+  
+}
+
+h2 {
+  color: purple;
+  font-family: "Merriweather", serif;
+  font-size: 18pt;
+  margin: 20px;
+  padding: 5px;
+  
+}
+
+p {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-size: 12pt;
+  margin: 20px;
+  padding: 5px;
+  
+}
+
+/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#main-img {
+  border-radius: 50%;
+}
+
+
+u1 {
+  list-style-type: none;
+  background-color: #003046;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+#main-img {
+  border radius: 50%;
+}
+
+
+/******************/
+/* Navigation Bar */
+/******************/
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #ce99ff;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 12px 13px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #e699ff;
+  color: white;
+}
+
+
+
+
+
+
+
+
