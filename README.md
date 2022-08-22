@@ -9,12 +9,6 @@ Your project should:
 - Include a navigation bar that is included on all your website's pages.
 - Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
 
-## Extensions
-You can extend your project further by:
-- Creating a "Blog" HTML page that you can use to write blog posts with your readers!
-- Adding accessibility features to your website.
-
-
 ## ← index.html
 
 This is your homepage. It should be the first page that you work on.
